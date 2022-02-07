@@ -27,7 +27,7 @@ const three = 98;
 
 // Show in the console the avg. with 5 decimals
 
-
+avgArray = [one,two,three]
 
 
 
